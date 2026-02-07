@@ -1,0 +1,77 @@
+{
+  "book_id": "medieval-european-urban-realism-spiritual-seeking",
+  "title": "The Spectral Sediment of Madder",
+  "tagline": "In a city of mud and stone, a young craftsman's search for meaning threatens the solid, unforgiving world his father built.",
+  "target_words": 69553,
+  "actual_words": 69553,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Clash of Material and Spiritual Worlds",
+    "The Burden of Inheritance and Expectation",
+    "Urban Alienation and the Search for Meaning",
+    "The Sacred in the Profane"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Greasy Weight of Rain",
+      "words": 5796
+    },
+    {
+      "ch": 2,
+      "title": "The Theft of Trust",
+      "words": 5796
+    },
+    {
+      "ch": 3,
+      "title": "A Cage of Pale Wood",
+      "words": 5796
+    },
+    {
+      "ch": 4,
+      "title": "The Spectral Sediment of Madder",
+      "words": 5796
+    },
+    {
+      "ch": 5,
+      "title": "The Held Breath of the Shallows",
+      "words": 5796
+    },
+    {
+      "ch": 6,
+      "title": "A Hook in the Meat of the Mind",
+      "words": 5796
+    },
+    {
+      "ch": 7,
+      "title": "The River's Black, Breathing Void",
+      "words": 5796
+    },
+    {
+      "ch": 8,
+      "title": "A Cathedral of Accusation",
+      "words": 5796
+    },
+    {
+      "ch": 9,
+      "title": "The Road as a Slow Wound",
+      "words": 5796
+    },
+    {
+      "ch": 10,
+      "title": "Rain Like Flung Nails",
+      "words": 5796
+    },
+    {
+      "ch": 11,
+      "title": "The Percussive Force of Suspension",
+      "words": 5796
+    },
+    {
+      "ch": 12,
+      "title": "The Cleansing Veil",
+      "words": 5796
+    }
+  ]
+}
